@@ -1,0 +1,7 @@
+#write a r program to create a sequence of number from 20 to 50 where the difference between 
+#each number is 3 and find the sum of all the number
+
+number_sequence=seq(from=20,to=50,by=3)
+print(number_sequence)
+sum=sum(number_sequence)
+print(sum)
